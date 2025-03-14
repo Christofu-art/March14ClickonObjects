@@ -39,7 +39,7 @@ while 1: #game loop###########################################################
             if mousePos[0]>238 and mousePos[0] < 355 and mousePos[1]>130 and mousePos[1]<230:
                chest = 2
 
-            if mousePos[0]>238 and mousePos[0] < 355 and mousePos[1]>130 and mousePos[1]<230:
+            if mousePos[0]>558 and mousePos[0] < 355 and mousePos[1]>130 and mousePos[1]<235:
                chest2 = 2
          
         if event.type == pygame.MOUSEMOTION:
